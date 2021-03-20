@@ -1,0 +1,19 @@
+{
+  "blurb": "Implement a Decimal type",
+  "authors": [
+    {
+      "github_username": "coriolinus"
+    }
+  ],
+  "files": {
+    "solution": [
+      "src/lib.rs"
+    ],
+    "test": [
+      "tests/decimal.rs"
+    ],
+    "example": [
+      ".meta/example.rs"
+    ]
+  }
+}

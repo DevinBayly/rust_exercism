@@ -1,0 +1,19 @@
+{
+  "blurb": "Implement a macro using macros-by-example",
+  "authors": [
+    {
+      "github_username": "coriolinus"
+    }
+  ],
+  "files": {
+    "solution": [
+      "src/lib.rs"
+    ],
+    "test": [
+      "tests/macros.rs"
+    ],
+    "example": [
+      ".meta/example.rs"
+    ]
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "blurb": "TODO: add blurb for options exercise",
+  "authors": [
+    {
+      "github_username": "seanchen1991",
+      "exercism_username": "seanchen1991"
+    },
+    {
+      "github_username": "coriolinus",
+      "exercism_username": "coriolinus"
+    }
+  ],
+  "files": {
+    "solution": [
+      "src/lib.rs"
+    ],
+    "test": [
+      "tests/options.rs"
+    ],
+    "exemplar": [
+      ".meta/exemplar.rs"
+    ]
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "blurb": "TODO: add blurb for structs exercise",
+  "authors": [
+    {
+      "github_username": "seanchen1991",
+      "exercism_username": "seanchen1991"
+    }
+  ],
+  "files": {
+    "solution": [
+      "src/lib.rs"
+    ],
+    "test": [
+      "tests/structs.rs"
+    ],
+    "exemplar": [
+      ".meta/exemplar.rs"
+    ]
+  }
+}
